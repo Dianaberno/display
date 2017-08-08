@@ -1,0 +1,36 @@
+body{
+    background: grey;
+}
+.d1{
+    background-color: teal;
+    padding: 20px;
+}
+.d2{
+    background-color:lightcoral ;
+    padding: 20px;
+}
+.d3{
+    background-color:teal;
+    padding: 20px;
+}
+#ejer1{
+    font-size: 30px;
+    display: block;
+ 
+
+}
+#ejer2{
+    font-size: 30px;
+    display: inline-block;
+    margin: 10px;
+    
+}
+#ejer3{
+    font-size: 10px;
+    display: inline;
+    margin: 20px;
+}
+#ejer4{
+    display: inline-block;
+    height: 50px;
+}
